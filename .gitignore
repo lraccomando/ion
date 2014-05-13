@@ -1,0 +1,6 @@
+.Python
+*.pyc
+bin/*
+include/*
+lib/*
+man/*
